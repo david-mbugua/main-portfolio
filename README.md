@@ -115,7 +115,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ### (1) Hero Section
 
 - On `.hero-title`, put your custom portfolio title.
-- On `.hero-cta`, put your custom button label.
+- On `.hero-cta`, put your custom button label. 
 
 ```html
 <!-- **** Hero Section **** -->
@@ -189,7 +189,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 
 ### (3) Projects Section
 
-- Each project lives inside a `row`.
+- Each project lives inside a `row`. 
 - On `<h3>` tag with class name `.project-wrapper__text-title`, include your project title.
 - On `<p>` tag with `loremp ipsum` text, include your project description.
 - On first `<a>` tag, put your project url on `href` property.
@@ -205,7 +205,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="projects">
   ...
   <!-- Notice: each .row is a project -->
-  <div class="row">
+  <div class="row"> 
     <div class="col-lg-4 col-sm-12">
       <div class="project-wrapper__text load-hidden">
         <h3 class="project-wrapper__text-title">Project Title</h3>
