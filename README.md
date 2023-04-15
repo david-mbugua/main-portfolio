@@ -72,18 +72,17 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="assets/screenshot1.png" alt="Simplefolio" width="100%">
+  <img src="assets/screenshot1.jpg" alt="Introduction" width="100%">
 </h2>
 
 <h2 align="center">
-  <img src="assets/screenshot2.png" alt="Simplefolio" width="100%">
+  <img src="assets/screenshot2.jpg" alt="About" width="100%">
 </h2>
 
 <h2 align="center">
-  <img src="assets/screenshot3.png" alt="Simplefolio" width="100%">
+  <img src="assets/screenshot3.jpg" alt="Projects" width="100%">
 </h2>
 
 <h2 align="center">
-  <img src="assets/screenshot4.png" alt="Simplefolio" width="100%">
+  <img src="assets/screenshot4.jpg" alt="Contacts" width="100%">
 </h2>
-
