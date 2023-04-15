@@ -72,6 +72,18 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="assets/screenshot1.png" alt="Simplefolio" width="100%">
+</h2>
+
+<h2 align="center">
+  <img src="assets/screenshot2.png" alt="Simplefolio" width="100%">
+</h2>
+
+<h2 align="center">
+  <img src="assets/screenshot3.png" alt="Simplefolio" width="100%">
+</h2>
+
+<h2 align="center">
+  <img src="assets/screenshot4.png" alt="Simplefolio" width="100%">
 </h2>
 
