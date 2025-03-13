@@ -1,0 +1,37 @@
+// Font Awesome icon optimization
+.fa-inverse {
+  color: #fff;
+}
+
+// Preload social icons for better performance
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.6rem;
+    width: 5rem;
+    height: 5rem;
+    margin: 1rem 2.5rem;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+      transform: translateY(-2px);
+    }
+  }
+}
+
+// Optimize icon loading
+[class*="fa-"] {
+  display: inline-block;
+  line-height: inherit;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} 
