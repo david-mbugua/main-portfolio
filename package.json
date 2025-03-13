@@ -6,7 +6,8 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "optimize-images": "node fix-scripts/convertImages.js"
   },
   "repository": {
     "type": "git",
